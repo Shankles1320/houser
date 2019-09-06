@@ -1,0 +1,1 @@
+update houses set description = $2 where houses_id = $1
